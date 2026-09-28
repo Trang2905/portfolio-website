@@ -44,7 +44,6 @@ Xây dựng bằng HTML, CSS, JavaScript thuần, không dùng framework.
 ## 🌐 Xem online
 
 Website được triển khai qua GitHub Pages:
-`https://<ten-ban>.github.io/linhtrang-portfolio/`
 
 ## 📬 Liên hệ
 
